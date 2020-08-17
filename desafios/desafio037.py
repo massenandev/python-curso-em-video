@@ -1,0 +1,1 @@
+# numero pra byte e hexadecimal
